@@ -26,5 +26,4 @@
     <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezzerof&show_icons=true&locale=en&layout=compact" alt="ezzerof" />
     <img width="34%" src="https://github-readme-stats.vercel.app/api?username=ezzerof&show_icons=true&locale=en" alt="ezzerof" />
     <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=ezzerof&theme=dark" alt="ezzerof" />
-    
 </p>
