@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezzerof&label=Profile%20views&color=0e75b6&style=flat" alt="ezzerof" /> </p>
 
 - 🖥️ I'm a skilled programmer **with expertise in Java, Python and C#**
-- 🌱 I’m currently learning **Testing Frameworks (Spring, Selenium, Cucumber, JUnit)**
+- 🌱 I’m currently learning **Software Developing (Spring Boot)**
 - 🎮 I'm a **gaming enthusiast, big fan of Battlefield**
 - 🏅 I'm a **experienced boxer and fan of sport**
 - ⚡ Fun fact **- I like to make funny photos of my friends in Photoshop**
