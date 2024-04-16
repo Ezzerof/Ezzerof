@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezzerof&label=Profile%20views&color=0e75b6&style=flat" alt="ezzerof" /> </p>
 
 - 🖥️ I'm a skilled programmer **with expertise in Java, Selenium, Cucumber, Rest Assured and JUnit**
-- 🌱 I’m currently learning **Robot Framework**
+- 🌱 I’m currently learning **Python**
 - 🎮 I'm a **gaming enthusiast, a big fan of Battlefield**
 - 🏅 I'm a **experienced boxer and fan of sport**
 - ⚡ I like **video and photo editing**
