@@ -9,7 +9,7 @@
 
 - 🩺 I'm a skilled tester **with expertise in Java, Selenium, Cucumber, Rest Assured, Mockito and JUnit**
 - 🖥️ I'm an experienced developer **inlove with Java(Spring Boot) and Python(Flask)**
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **CS50**
 - 🎮 I'm a **gaming enthusiast, a big fan of Battlefield**
 - 🏅 I'm a **experienced boxer and fan of sport**
 - ⚡ I like **video and photo editing**
