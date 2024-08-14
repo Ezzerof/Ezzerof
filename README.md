@@ -1,8 +1,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Cristian</h1>
-<h3 align="center">A passionate Java Test Automation Engineer</h3>
-<h4 align="center">with a passion for Software Development</h4>
+<h3 align="center">A passionate Java Enthusiast</h3>
+<h4 align="center">with a passion for Software Development and Automation Testing</h4>
 <!-- <img align="right" alt="Coding" width="330" src="https://cvws.icloud-content.com/B/AWI8p94a9GoQzdFMOwHuvgijHTj1Af0CIwAfADkiQ2P14imfwbbGXdmp/DALL%C2%B7E+2024-01-16+17.20.48+-+A+detailed+image+of+a+hard-working+programmer+coding+in+Java%2C+shown+in+a+realistic+style.+The+scene+is+set+in+a+well-organized+office+space%2C+with+the+.png?o=ArIWrkpAUQ2WIZpGqUBq7JRjgy6kKc7JbNJf0ksXgqQo&v=1&x=3&a=CAogjcEzs645NQVYKQUP88lWTbdS1NMMaSh0U03DI2R2u0ISbxDApPOW0TEYwIHPmNExIgEAUgSjHTj1WgTGXdmpaifjXw7R83luC_L0w8bZaLWVIiUaz2UA5e-MpiRfUiw_HSJZdeLylFByJ7YO9eb7AWTqEqcHrkU4pdEaR_UIYUuPLkEkQS9Gx0uxGhxarQXHYQ&e=1705422078&fl=&r=a4221d9c-f420-4eb6-b3f3-962a549eedf2-1&k=jQcgbED6kvFWN-s9JVt9lA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=59&s=GqU4_Jx1gL-nypK_h--9gTHSHXM&cd=i">
  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezzerof&label=Profile%20views&color=0e75b6&style=flat" alt="ezzerof" /> </p>
