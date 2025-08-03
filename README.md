@@ -83,7 +83,7 @@
 
 ---
 
-### 🇬🇧🇷🇴 Notes
+### 🇬🇧🇲🇩 Notes
 
 - Based in the **United Kingdom**, originally from **Republic of Moldova**.
 - Available for **remote work across Europe**.
